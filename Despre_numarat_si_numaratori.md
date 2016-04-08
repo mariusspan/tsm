@@ -1,4 +1,4 @@
-## Despre numărat şi numărători ##
+## Despre numărat şi numărători: QoS – Quality of Service  ##
 
 Tocmai ai instalat în producţie o nouă aplicaţie, şampaniile pocnesc şi toată lumea este fericită. A doua zi colegii devopsi vin la tine. Situaţia nu pare prea roz. Aplicaţia s-a oprit de mai multe ori pe parcursul evenimentelor încărcate de seara trecută. Ca lucrurile să fie şi mai complicate motivul pentru care aplicaţia a cedat nu este cunoscut. Singurul indiciu pe care îl ai este încărcarea excesivă a resurselor sistemului de operare. 
 
