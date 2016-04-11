@@ -1,4 +1,4 @@
-## About counters and counting: QoS - Quality of Service ## 
+## About counters and counting: QoS - Quality of Service  ##
 
 So, you've just deployed your latest application into production. Champaigns are popping and everybody’s happy. Next day the Devops team are approaching you. They do not look happy. The application failed crashed times last night during the busy events. And just to make things a little bit more complicated the reason of failure is still not known. The only hint you have is a high resources load on the OS level.
 
